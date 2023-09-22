@@ -1,0 +1,42 @@
+
+body{background-color: rgb(0,0,0);
+    background-image:url(p1/sr5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+ }
+ h1{color: rgb(11, 240, 240);
+    text-align: center;
+    border: 2px solid rgb(16, 226, 9);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 200%;
+    margin: 50px;
+ }
+ H2{
+    color: rgb(15, 230, 238);
+    text-align: center;
+    border: 2px solid rgb(62, 235, 19);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+ p{color: rgb(245, 245, 247);
+   text-decoration: 200%
+ }
+ pre{color: rgb(228, 241, 243);
+    font-size: 110%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px rgb(7, 235, 18);
+    
+ }
+ h3{
+    color: aqua;
+    text-align: center;
+    text-shadow: 10;
+    font-size: 200%;
+    border: 2px dodgerblue;
+   
+ }
+p{
+    color:rgb(252, 254, 255);
+    text-size-adjust: 200;
+    font-size: 150%;
+}
